@@ -2,14 +2,10 @@
 dependency1.from=PayMethodTest
 dependency1.to=PayMethod
 dependency1.type=UsesDependency
-editor.fx.0.height=800
-editor.fx.0.width=1280
+editor.fx.0.height=0
+editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
-editor.fx.1.height=709
-editor.fx.1.width=800
-editor.fx.1.x=49
-editor.fx.1.y=25
 objectbench.height=101
 objectbench.width=776
 package.divider.horizontal=0.6
